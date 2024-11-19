@@ -1,2 +1,2 @@
 # Try it
-## https://theom-e.github.io/SuperCalc/
+## https://0xTo.github.io/SuperCalc/
